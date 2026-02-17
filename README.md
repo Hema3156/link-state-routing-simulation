@@ -21,10 +21,3 @@ tables to reflect network changes.
 ```bash
 gcc link_state_routing.c -o routing
 ./routing
-
-## What I Learned
-- How Link State Routing works internally
-- Applying Dijkstra’s algorithm to real network problems
-- Using graphs and adjacency matrices in C
-- Handling dynamic updates in routing tables
-```
